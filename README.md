@@ -18,13 +18,14 @@
 
 <br/>
 
+
 ### 01 / About me
 
-I'm a **Computer Engineering undergraduate at PUC-Campinas**, interested in software development, embedded systems, and building meaningful digital experiences.
+I'm a **6th-semester Computer Engineering student at PUC-Campinas**, passionate about software development, embedded systems, and building meaningful digital experiences.
 
 I enjoy understanding how technology works, from low-level systems to modern web applications.
 
-- 🎓 Computer Engineering — PUC-Campinas
+- 🎓 Computer Engineering — PUC-Campinas | 6th Semester
 - 💻 Software Development & Embedded Systems
 - 🛠️ Always learning, building and improving
 - 📍 Campinas, São Paulo — Brazil
