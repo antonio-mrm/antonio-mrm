@@ -106,24 +106,28 @@ Explore my repositories to see additional academic projects, experiments, and so
 
 
 
+
 ### 04 / GitHub activity
 
 <div align="center">
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonio-mrm&theme=github_dark"
-    width="32%"
-    alt="GitHub contributions"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonio-mrm&theme=github_dark"
-    width="32%"
-    alt="Languages"
-  />
-  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonio-mrm&theme=github_dark"
-    width="32%"
-    alt="GitHub statistics"
+    width="46%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antonio-mrm&theme=github_dark"
+    width="46%"
+    alt="Most Used Languages"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=antonio-mrm&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8AB4D6&fire=8AB4D6&currStreakLabel=8AB4D6"
+    width="60%"
+    alt="GitHub Streak"
   />
 
 </div>
