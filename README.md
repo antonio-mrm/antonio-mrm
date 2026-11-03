@@ -102,30 +102,30 @@ Explore my repositories to see additional academic projects, experiments, and so
 
 <br/>
 
+
 ### 04 / GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=antonio-mrm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8AB4D6&text_color=C9D1D9&icon_color=8AB4D6" height="165" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-mrm&layout=compact&hide_border=true&bg_color=0D1117&title_color=8AB4D6&text_color=C9D1D9" height="165" alt="Most used languages" />
-
-</div>
-
-<br/>
-
-### 05 / Let's connect
-
-I'm always interested in learning, collaborating, and exploring new opportunities in technology.
-
-**GitHub:** [@antonio-mrm](https://github.com/antonio-mrm)
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonio-mrm&theme=github_dark"
+  width="95%"
+  alt="GitHub contribution overview"
+/>
 
 <br/>
 
----
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonio-mrm&theme=github_dark"
+  width="45%"
+  alt="Languages by repository"
+/>
 
-<div align="center">
-
-<sub>DESIGNED WITH PURPOSE · BUILT WITH CODE</sub>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonio-mrm&theme=github_dark"
+  width="45%"
+  alt="GitHub statistics"
+/>
 
 </div>
+
