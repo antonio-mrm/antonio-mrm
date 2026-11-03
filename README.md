@@ -103,29 +103,33 @@ Explore my repositories to see additional academic projects, experiments, and so
 <br/>
 
 
+
 ### 04 / GitHub activity
 
 <div align="center">
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonio-mrm&theme=github_dark"
-  width="95%"
+  width="65%"
   alt="GitHub contribution overview"
 />
 
-<br/>
+<br/><br/>
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonio-mrm&theme=github_dark"
-  width="45%"
+  width="32%"
   alt="Languages by repository"
 />
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonio-mrm&theme=github_dark"
-  width="45%"
+  width="32%"
   alt="GitHub statistics"
 />
+
+</div>
+
 
 </div>
 
