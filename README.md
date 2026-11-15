@@ -9,8 +9,6 @@
 
 <br/><br/>
 
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3" />
-</a>
 <img src="https://img.shields.io/badge/Campinas%2C_Brazil-0D1117?style=for-the-badge&logo=googlemaps&logoColor=8AB4D6" />
 
 </div>
